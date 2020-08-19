@@ -11,6 +11,6 @@ Learn Complex Data Structures
 ## Happy Coding
 Code For Fun
 ## Author
-👤 **Franck Abgrall**
-
-- :tw-1f466: 18 Year old
+👤 **Kenneth**
+- Github: [@kenneth2001](https://github.com/kenneth2001)
+- 18 Year old
